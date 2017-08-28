@@ -26,7 +26,7 @@
 
 #### 效果图
 
-[login](file:///usr/local/AOps/login.png)
+![login](file:///usr/local/AOps/login.png)
 
-[process](file:///usr/local/AOps/process.png)
+![process](file:///usr/local/AOps/process.png)
 
